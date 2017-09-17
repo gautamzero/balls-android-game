@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\MenuManagerScript.cs">
+    <Files>
+      <File FileName="Assets\scripts\MenuManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PassValueScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GamePlay.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\TimeOverScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\StatManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\BirdMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Collision.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\BirdMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MusicManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\AudioPlay.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
