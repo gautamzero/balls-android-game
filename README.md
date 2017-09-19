@@ -9,3 +9,5 @@ This game is created using unity game engine for only android platform.
 Developed under supervision of - 
 Mr. Sheikh Nabil Mohammad & 
 Mr. Bishwapriyo Chakrabarty Lecturers, Dept. of CSE.
+
+google play : https://play.google.com/store/apps/details?id=com.FluxStudio.Balls
