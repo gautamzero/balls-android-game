@@ -11,3 +11,4 @@ Mr. Sheikh Nabil Mohammad &
 Mr. Bishwapriyo Chakrabarty Lecturers, Dept. of CSE.
 
 google play : https://play.google.com/store/apps/details?id=com.FluxStudio.Balls
+alternate source to download: https://www.apkturbo.com/games/balls/com.FluxStudio.Balls/
